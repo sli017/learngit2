@@ -18,3 +18,6 @@ e475afc HEAD@{1}: reset: moving to HEAD^
 1094adb (HEAD -> master) HEAD@{2}: commit: append GPL
 e475afc HEAD@{3}: commit: add distributed
 eaadf4e HEAD@{4}: commit (initial): wrote a readme file
+
+add 6:
+git reflog      查看历史HEAD变化情况
