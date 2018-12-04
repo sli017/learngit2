@@ -1,0 +1,32 @@
+[BEGIN] 2018/12/3 10:06:38
+Last login: Mon Dec  3 08:58:24 2018 from cv0028252n1.int.nokia-sbell.com
+Notice: The use of this system is restricted to users who have been granted access and authorization by Nokia. Your use of this system constitutes your express consent to Nokia's monitoring, recording and auditing of all system activities as permitted by law. Your unauthorized use of this system, or any unauthorized disclosure or use of the contents of this system by you, may be subject to company disciplinary actions and/or criminal and civil penalties.
+Setting-up for working on the ALU 1830 project....
+ps ax|grep debug
+  925 ?        Ssl    0:00 /usr/lib/polkit-1/polkitd --no-[01;31m[Kdebug[m[K
+24131 pts/1    S+     0:00 grep --color=auto [01;31m[Kdebug[m[K
+pss1830vm-8
+pss1830vm-8!sli017:Linux3.10.0-693.5.2.el7.x86_64/home/sli017
+-> . newgrp.dotin /bin/ksh
+pss1830vm-8!sli017:Linux3.10.0-693.5.2.el7.x86_64/home/sli017
+-> exit
+pss1830vm-8!sli017:Linux3.10.0-693.5.2.el7.x86_64/home/sli017
+-> setupgit
+Setting up git for 1830 project...
+!!!!!!! WARNING: YOU ARE NOT ON A BUILD SERVER !!!!!!!
+The following functionality can only be undertaken on the server
+where you created your workspace:
+    1. Build the software
+    2. Creating, updating and removing workspaces
+
+Valid build servers at your site include:
+    	pss-gtbuild0	pss-gtbuild1
+
+pss1830vm-8!sli017:Linux3.10.0-693.5.2.el7.x86_64/home/sli017
+-> cat ./.csll 
+sli017
+pss1830vm-8!sli017:Linux3.10.0-693.5.2.el7.x86_64/home/sli017
+-> 
+Connection closed by foreign host.
+
+[END] 2018/12/3 10:44:58
