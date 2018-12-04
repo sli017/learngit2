@@ -2,3 +2,8 @@ mircosoftibmsunapplehpmircosoftibmsunapplehp
 
 Git is a distributed version control system.
 Git is free software.
+
+[diff]
+    tool = bc3
+[difftool "bc3"]
+    path = d:/program files/beyond compare 3/bcomp.exe
