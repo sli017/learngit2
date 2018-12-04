@@ -12,3 +12,9 @@ Git is free software.
 	add  4  : 
 	git config --global user.name "sli017"
 	git config --global user.email li.shumin@qq.com
+	
+	add 5:
+e475afc HEAD@{1}: reset: moving to HEAD^
+1094adb (HEAD -> master) HEAD@{2}: commit: append GPL
+e475afc HEAD@{3}: commit: add distributed
+eaadf4e HEAD@{4}: commit (initial): wrote a readme file
