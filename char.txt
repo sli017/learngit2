@@ -21,3 +21,8 @@ eaadf4e HEAD@{4}: commit (initial): wrote a readme file
 
 add 6:
 git reflog      查看历史HEAD变化情况
+
+add 7:
+git push acos integration
+git push origin master
+
