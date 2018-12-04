@@ -7,3 +7,8 @@ Git is free software.
     tool = bc3
 [difftool "bc3"]
     path = d:/program files/beyond compare 3/bcomp.exe
+	
+	
+	add  4  : 
+	git config --global user.name "sli017"
+	git config --global user.email li.shumin@qq.com
